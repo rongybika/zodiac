@@ -1,0 +1,17 @@
+.wrapper.style1 {
+        background-color: #dcdee2 !important;
+        color: #000207 !important;
+        text-align: center !important;
+}
+.wrapper.style1.special {
+        color: #000207 !important;
+}
+.wrapper.style1 input[type="text"], input[type="password"], input[type="email"], select, textarea {
+    background: rgba(144, 144, 144, 0.25) none repeat scroll 0 0 !important;
+    width: 25% !important;
+    margin: 0 auto !important;
+    text-align: center !important; 
+}
+table td {
+    padding: 0.1em !important;
+}
